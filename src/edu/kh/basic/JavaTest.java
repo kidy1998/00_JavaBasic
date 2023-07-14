@@ -23,7 +23,7 @@ public class JavaTest {
 		System.out.println("점심은 드셨나요?");
 		System.out.println("12345");
 
-		System.out.println("-----------------------------");
+		System.out.println("----------Test-------------------");
 		
 		// 숫자 연산
 		
